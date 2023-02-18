@@ -4,10 +4,10 @@
 
 SELECT *
 
-FROM CITY
+FROM city
 
-WHERE COUNTRYCODE = 'USA'
+WHERE countrycode = 'USA'
 
-AND POPULATION > 100000
+AND population > 100000
 
 
